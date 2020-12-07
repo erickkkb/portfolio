@@ -1,0 +1,61 @@
+
+body{
+    margin: 0;
+    background-color: #E9967A;
+}
+h3{
+    margin: 0;
+    padding: 12px;
+}
+nav{
+    background-color: #1a1a1a;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+}
+nav li{
+    display: inline-block;
+    padding: 12px;
+}
+nav a {
+    text-decoration: none;
+    color: #eee;
+}
+
+
+.contactcard {
+    border: solid 1px #eee;
+    width: 70%;
+    margin: auto;
+    padding: 15px;
+}
+.contactcard ul{
+list-style-type: none;
+display: inline-block;
+}
+.contactcard img{
+    width: 10%;
+}
+.mainbox{
+    max-width: 70%;
+    margin: auto;
+    border: solid 1px #ddd;
+    border-radius: 4px;
+    padding-left: 0px;
+    border-bottom: solid 1px #ddd;
+    padding: 15px;
+}
+.secondbox {
+    display: inline-block;
+    width: 45%;
+    margin-left: 30px;  
+}
+.contacto {
+    max-width: max-content;
+    margin: auto;
+}
+.formulario{
+    max-width: max-content;
+    margin: auto;
+}
